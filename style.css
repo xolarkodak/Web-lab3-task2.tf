@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 800px;
+}
+
+td {
+    padding: 5px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.cont2345 {
+    display: flex;
+}
+
+.inner-table {
+    height: 50px;
+    width: 780px;
+    border: 2px;
+}
+
+.inrercontainer {
+    background-color: rgb(245, 253, 255);
+    height: 50px;
+    width: 220px;
+}
+
+.innrefist {
+    border-color:  rgb(255, 233, 35);;
+    background-color: rgb(255, 233, 35);
+    text-align: right;
+    height: 50px;
+    padding-right: 150px;
+    width: 300px;
+}
+
+.first {
+    background-color: rgb(255, 233, 35);
+    height: 100px;
+    text-align: right;
+}
+
+.two {
+    background-color: rgb(73, 119, 255);
+    height: 550px;
+    width: 180px;
+    margin-right: 20px;
+}
+
+.tree {
+    background-color: rgb(232, 71, 71);
+    height: 550px;
+    width: 180px;
+    margin-right: 20px
+}
+
+.four {
+    background-color: rgb(255, 245, 245);
+    height: 550px;
+    width: 180px;
+    margin-right: 20px;
+}
+
+.five {
+    background-color: rgb(232, 71, 71);
+    height: 550px;
+    width: 180px;
+}
+
+.six {
+    background-color: rgb(255, 233, 35);
+    height: 100px;
+    text-align: left;
+    padding-left: 150px;
+}
